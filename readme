@@ -1,2 +1,30 @@
+🔧 Key Features
+Navigation Bar with links: Home, About, Work, Resume, Contact.
+
+About Section describing who I am and what I do.
+
+Work Section showcasing sample projects or experiences.
+
+Resume Section with relevant background or a downloadable CV.
+
+Contact Form using HTML <form> elements for user interaction.
+
+Embedded Video or Audio using <video> or <audio> tags.
+
+Table and List elements to display organized data.
+
+Footer with additional links or information.
+
+Linked to an external CSS file (styles.css) for styling.
+
+🎨 Styling
+Navigation bar styled as inline.
+
+Font set to Roboto.
+
+Classes used to target specific sections for custom design.
+
+Responsive layout using proper HTML structure.
+
 
 ![screenshot](restaurant.png)
